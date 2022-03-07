@@ -1,0 +1,6 @@
+
+11	A	A	1	A
+
+22	XX	X	3	XX
+
+55	cc	cc	55	cc
